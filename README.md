@@ -1,6 +1,6 @@
 # Agent007
 
-> Autonomous Open-Source Intelligence Collection, Correlation, and Reporting Platform
+> Autonomous Open-Source Intelligence Collection, Correlation, and Reporting Platform.  Discover signals from public data, correlate findings, and generate actionable intelligence reports.
 
 Agent007 is an AI-powered intelligence platform that automatically gathers, correlates, analyzes, and summarizes publicly available information about organizations, domains, infrastructure, and technology footprints.
 
@@ -38,10 +38,11 @@ Agent007 gathers information from numerous public sources including:
 * Certificate Transparency Logs
 * Public GitHub Repositories
 * News Sources
+* Social Media Presence
 * Company Websites
 * Public Technology Fingerprinting
-* ASN Information
-* IP Intelligence Sources
+* ASN Ownership
+* IP Address space
 * Security Exposure Data
 * Public Breach Intelligence Sources
 * Open Threat Intelligence Feeds
